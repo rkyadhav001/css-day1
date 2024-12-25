@@ -1,0 +1,19 @@
+.a, .b, .c{
+    width: 400px;
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    margin: 20px;
+}
+.a{
+background-color: royalblue;
+}
+.b{
+    background-color: green;
+}
+.c{
+    background-color: darkgoldenrod;
+}
+.d{
+    background-color: palevioletred;
+}
